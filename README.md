@@ -12,6 +12,10 @@ Tendo isso em mente, eu desenvolvi uma landing scape sobre uma loja de teclados 
 ## 🎯 Objetivo
 Este repositório vai armazenar uma Landing Scape que eu fiz durante os estudos do Web design da Free Code camp
 
+## Link do site
+
+https://productlandingpageh.netlify.app/
+
 
 ![image](https://github.com/TiagoUniverse/Landing-Scape-Model/assets/71237410/96a5a06c-5e5c-469a-9708-d4209ecacec3)
 
